@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author shabi
+ *
+ */
+module ThursdayActivities {
+}
